@@ -13,6 +13,7 @@ Format pliku wejściowego:
 
 ilość_wierzchołków ilość_krawędzi
 wiechołek wierzchołek waga_krawędzi
+
 .
 .
 .
